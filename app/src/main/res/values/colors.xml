@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF5F5F5</color>
+    <color name="colorPrimaryDark">#FF757575</color>
+    <color name="colorAccent">#19224d</color>
+    <color name="colorBackground">#FFFAFAFA</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="textColorPrimary">#89000000</color>
+    <color name="iconsBackground">#000000</color>
+    <color name="snackbarAction">#e5ed6363</color>
+
+    <color name="circle1">#D2B4DE</color>
+    <color name="circle2">#FFE57F</color>
+    <color name="circle3">#CCFF90</color>
+
+</resources>

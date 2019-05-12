@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/mon_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/monday"
+        android:textSize="18sp" />
+    <TextView
+        android:id="@+id/tue_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/tuesday"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/wed_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/wednesday"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/thu_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/thursday"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/fri_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/friday"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/sat_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/saturday"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/sun_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/sunday"
+        android:textSize="18sp" />
+</LinearLayout>
+
+
+

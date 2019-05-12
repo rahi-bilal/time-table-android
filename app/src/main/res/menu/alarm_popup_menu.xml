@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/off"
+            android:title="Off"/>
+        <item
+            android:id="@+id/on_time"
+            android:title="On Time"/>
+
+        <item
+            android:id="@+id/fifteen"
+            android:title="Before 15 min"/>
+        <item
+            android:id="@+id/thirty"
+            android:title="Before 30 min"/>
+    </group>
+</menu>

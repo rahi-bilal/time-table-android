@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="none">
+        <item android:id="@+id/exam_alarm_off"
+            android:title="Off" />
+        <item android:id="@+id/before_one_day"
+            android:title="Before 1 day" />
+    </group>
+</menu>

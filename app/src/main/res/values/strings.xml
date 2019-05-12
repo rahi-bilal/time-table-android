@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Time Table</string>
+    <string name="app_title">Schedule</string>
+
+    <!-- Navigation Menu items -->
+    <string name="home">Home</string>
+    <string name="add_schedule">Week Schedule</string>
+    <string name="edit_schedule">Edit</string>
+    <string name="view_schedule">View</string>
+
+    <!-- Add Schedule fragment-->
+    <string name="addTitle">Add Schedule Details</string>
+    <string name="subject">Subject</string>
+    <string name="room">Room</string>
+    <string name="teacher">Teacher</string>
+    <string name="select_day_time_label">Select day &amp; time</string>
+    <string name="from_label">From:</string>
+    <string name="to_label">To:</string>
+    <string name="add_schedule_button">Add</string>
+    <string name="time_hint">hh:mm</string>
+
+    <!--Days Text View -->
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+
+    <!--Edit Schedule Fragment -->
+    <string name="editTile">Edit Schedule Details</string>
+    <string name="position">position</string>
+    <string name="update_schedule_button">Update</string>
+
+    <!--Add Exam Fragment-->
+    <string name="addExamTitle">Add Exam Schedule</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="type">Type</string>
+    <string name="addExam">Exam Schedule</string>
+    <string name="viewExamSchedule">Exam Schedule</string>
+    <string name="viewWeekSchedule">Week Schedule</string>
+    <string name="addExamButtonText">Add Exam Schedule</string>
+    <string name="exclamation">&#xf06a;</string>
+    <string name="check">&#xf00c;</string>
+    <string name="plus_circle">&#xf055;</string>
+    <string name="arrow_left_circle">&#xf100;&#xf100;</string>
+    <string name="arrow_right_circle">&#xf101;</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header_app_icon">Header App Icon</string>
+</resources>
